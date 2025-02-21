@@ -20,3 +20,5 @@ require (
 	github.com/philhofer/fwd v1.1.2 // indirect
 	golang.org/x/sys v0.12.0 // indirect
 )
+
+replace github.com/mooijtech/go-pst => github.com/greysquirr3l/go-pst v1.0.0
